@@ -19,7 +19,7 @@ If you use a different database name, change DB_NAME in .env too.
 
 ## 2. Open our group project on this computer
 
-1. Open C:\mnt\data\EmergencyResponseStarter.
+1. Open C:\mnt\data\Emergency-ResponseStarter-main.
 2. Double-click start-backend.cmd to run Python.
 3. Double-click start.cmd to run React.
 4. Open http://127.0.0.1:5173 in your browser.
